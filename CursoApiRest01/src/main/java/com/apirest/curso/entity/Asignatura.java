@@ -12,7 +12,7 @@ import javax.persistence.Id;
 import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
 import javax.persistence.Table;
-//commit 02 para asignatura
+//commit 03 para asignatura
 //Asignaturas es como Materias
 @Entity
 @Table(name="asig_asignaturas", schema="public")
